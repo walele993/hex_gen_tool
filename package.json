@@ -1,0 +1,25 @@
+{
+  "name": "hex-gen-tool",
+  "version": "1.0.2",
+  "description": "Hex Generator is a simple and lightweight Node.js package that generates random hex color codes. Perfect for styling your applications, terminal outputs, or for adding a fun, dynamic touch to your projects. It outputs both the color code and displays the message in the generated color for easy visualization.",
+  "main": "index.js",
+  "bin": {
+    "random-hex-color": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "hex",
+    "color",
+    "cli",
+    "generator"
+  ],
+  "author": "walele993",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "type": "module"
+}
