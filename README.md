@@ -1,5 +1,5 @@
 # 🎨 Hex Generator
-
+ 
 *A simple and lightweight package for generating random hex colors for styling your app in [Node.js](https://www.npmjs.com/package/hex-gen-tool).*
 
 ## 🚀 Introduction  
